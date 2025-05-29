@@ -18,7 +18,7 @@ chosen_word = random.choice(word_list)
 
 """All the comments below this are essential for dry run purposes hence not deleted"""
 
-print(chosen_word)
+#print(chosen_word)
 
 lives = 6
 
